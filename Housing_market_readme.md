@@ -1,8 +1,3 @@
-
-# Project Title
-
-Housing Market Sales Analysis
-
 # Housing Sales Dashboard
 
 A Power BI dashboard designed to analyze housing sales performance, property prices, sales trends, regional performance, and the relationship between offer prices and purchase prices. The dashboard provides an interactive view of the housing market across different regions, sales types, property characteristics, and time periods.
